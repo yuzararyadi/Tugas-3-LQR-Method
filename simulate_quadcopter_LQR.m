@@ -1,6 +1,6 @@
 % simulate_quadcopter_LQR.m
 % Simulasi LQR untuk subsystems attitude, position, altitude
-% Berdasarkan Okyere et al. (2019). Referensi: file paper yang Anda upload. :contentReference[oaicite:6]{index=6}
+% Berdasarkan Okyere et al. (2019).
 
 clear; close all; clc;
 
